@@ -9,7 +9,8 @@
 
 ***
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER" /> </p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER"  height="100" width="250" /> </p>
 
 ***
 
