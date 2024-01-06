@@ -8,17 +8,17 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=WHITEDH4CKER&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" alt="WHITEDHACKER" /></p>
 
 ***
-
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER"  height="100" width="250" /> </p>
 
 ***
 
-
 ##  <b> <p align="center"> Connect with Me  </b></p>
 <p align="center">
-<a href="https://t.me/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="whitedh4cker" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="whitedh4cker" height="30" width="40" /></a>
 <a href="https://instagram.com/whitedh4cker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedh4cker" height="30" width="40" /></a>
+<a href="https://t.me/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="whitedh4cker" height="30" width="40" /></a>
+<a href="https://whatsapp.com/channel/0029VaIlY264IBh9T2iaey0r" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="whitedh4cker" height="30" width="40" /></a>
 <a href="https://github.com/whitedh4cker" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="whitedh4cker" height="30" width="40" /></a>
 </p>
 
