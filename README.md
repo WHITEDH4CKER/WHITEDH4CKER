@@ -13,18 +13,6 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WHITEDH4CKER&theme=dark" alt="WHITEDH4CKER" /></p>
 <a href="#"><img align="left" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEDH4CKER&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=280&hide_title=true&langs_count=6"></a>
 
-***
-##  <b> <p align="center"> Connect with Me  </b></p>
-<p align="center">
-<a href="https://www.facebook.com/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="whitedh4cker" height="40" width="40" /></a>
-<a href="https://instagram.com/whitedh4cker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedh4cker" height="40" width="40" /></a>
-<a href="https://t.me/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="whitedh4cker" height="40" width="40" /></a>
-<a href="https://whatsapp.com/channel/0029VaIlY264IBh9T2iaey0r" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="whitedh4cker" height="40" width="40" /></a>
-<a href="https://github.com/whitedh4cker" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="whitedh4cker" height="40" width="40" /></a>
-</p>
-
-***
-
 ## <b> <p align="center"> Languages  </b></p>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -39,6 +27,16 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 </p>
+
+##  <b> <p align="center"> Connect with Me  </b></p>
+<p align="center">
+<a href="https://www.facebook.com/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="whitedh4cker" height="40" width="40" /></a>
+<a href="https://instagram.com/whitedh4cker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedh4cker" height="40" width="40" /></a>
+<a href="https://t.me/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="whitedh4cker" height="40" width="40" /></a>
+<a href="https://whatsapp.com/channel/0029VaIlY264IBh9T2iaey0r" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="whitedh4cker" height="40" width="40" /></a>
+<a href="https://github.com/whitedh4cker" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="whitedh4cker" height="40" width="40" /></a>
+</p>
+
 
 <p align="center">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
