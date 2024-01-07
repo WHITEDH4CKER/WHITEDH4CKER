@@ -11,7 +11,7 @@
 <p align="center"> 
  <a href="#"><img src="https://img.shields.io/github/followers/WHITEDH4CKER?style=social&label=follow"  height="80" width="160" ></a>
     <a href="#"><img src="https://img.shields.io/github/stars/WHITEDH4CKER?style=social"  height="80" width="160" ></a>
- <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER"  height="80" width="160" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER"  height="80" width="320" /> </p>
 
 ***
 ##  <b> <p align="center"> Connect with Me  </b></p>
