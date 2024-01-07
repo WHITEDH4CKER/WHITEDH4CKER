@@ -6,7 +6,7 @@
 
 ***
 <img align="left" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"/>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=WHITEDH4CKER&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" alt="WHITEDHACKER" height="200" width="333"  /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=WHITEDH4CKER&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" alt="WHITEDHACKER" height="200" width="330"  /></p>
 
 ***
 
