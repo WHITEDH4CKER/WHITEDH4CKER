@@ -1,22 +1,22 @@
 # <b> <p align="center" > WELCOME! </b></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=435&lines=DEV_SANJAY;WHITEDHACKER;" alt="Typing SVG" /></a>
-
-<img align="left" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"/>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WHITEDH4CKER&theme=dark" alt="WHITEDH4CKER" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=WHITEDH4CKER&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" alt="WHITEDHACKER" /></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=320&lines=DEV_SANJAY;WHITEDHACKER;" alt="Typing SVG" /></a>
+ <a href="#"><img src="https://img.shields.io/github/followers/WHITEDH4CKER?style=social&label=follow"  height="80" width="160" ></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/WHITEDH4CKER?style=social"  height="80" width="160" ></a>
+ <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER"  height="80" width="320" /> </p>
 
 ***
-<p align="center"> 
- <a href="#"><img src="https://img.shields.io/github/followers/WHITEDH4CKER?style=social&label=follow"  height="80" width="160" ></a>
-    <a href="#"><img src="https://img.shields.io/github/stars/WHITEDH4CKER?style=social"  height="80" width="160" ></a>
- <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER"  height="80" width="320" /> </p>
+<img align="left" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=WHITEDH4CKER&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" alt="WHITEDHACKER" height="190" width="490"  /></p>
+
+***
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=WHITEDH4CKER&theme=dark" alt="WHITEDH4CKER" /></p>
+<a href="#"><img align="left" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHITEDH4CKER&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=450&hide_title=true&langs_count=6"></a>
 
 ***
 ##  <b> <p align="center"> Connect with Me  </b></p>
 <p align="center">
- <a href="https://www.facebook.com/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="whitedh4cker" height="40" width="40" /></a>
+<a href="https://www.facebook.com/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="whitedh4cker" height="40" width="40" /></a>
 <a href="https://instagram.com/whitedh4cker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedh4cker" height="40" width="40" /></a>
 <a href="https://t.me/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="whitedh4cker" height="40" width="40" /></a>
 <a href="https://whatsapp.com/channel/0029VaIlY264IBh9T2iaey0r" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="whitedh4cker" height="40" width="40" /></a>
