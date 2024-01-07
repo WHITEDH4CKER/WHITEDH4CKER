@@ -2,11 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=280&lines=DEV_SANJAY;WHITEDHACKER;" alt="Typing SVG" /></a>
  <a href="#"><img src="https://img.shields.io/github/followers/WHITEDH4CKER?style=social&label=follow"  height="80" width="140" ></a>
   <a href="#"><img src="https://img.shields.io/github/stars/WHITEDH4CKER?style=social"  height="80" width="140" ></a>
- <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER"  height="80" width="250" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=WHITEDH4CKER&label=Profile%20views&color=0e75b6&style=flat" alt="WHITEDH4CKER"  height="80" width="240" /> </p>
 
 ***
 <img align="left" src="https://media.giphy.com/media/xsCevAab5ufj37BeGR/giphy.gif"/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WHITEDH4CKER&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" alt="WHITEDHACKER" height="200" width="380"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WHITEDH4CKER&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" alt="WHITEDHACKER" height="240" width="360"  /></p>
 
 ***
 
