@@ -22,6 +22,7 @@
 <a href="https://github.com/whitedh4cker" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Github.svg" alt="whitedh4cker" height="40" width="40" /></a>
 </p>
 
+***
 ## <b> <p align="center"> Languages  </b></p>
 <p align="center">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -45,4 +46,4 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 </p>
 
- 
+ ***
